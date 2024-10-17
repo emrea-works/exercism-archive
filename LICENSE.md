@@ -8,4 +8,4 @@ This license requires that reusers give credit to the creator. It allows reusers
 
 Exercism.org Track Archive © 2024 by Anyone whose name is shared inside along in this very Repository as Mentor, Contributor, Myself As Exercise Provider and Owner of This Public Repository and by Founders of Exercism.org is licensed under CC BY-NC-SA 4.0.
 
-[See the Licensed Deed 🡽](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+[See the Licensed Deed ↗](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
