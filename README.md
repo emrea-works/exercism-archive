@@ -2,7 +2,7 @@
 
 All tracks I've been exercising on https://exercism.org
 
-If you cheat on your tracks from here, remember that only you will be cheating yourself and all your valuable time in your life.
+If you cheat on your tracks from here, remember that you will be cheating only yourself and all your valuable time in your life.
 
 ## License
 
